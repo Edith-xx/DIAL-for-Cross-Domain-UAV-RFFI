@@ -10,15 +10,20 @@ To address this issue, this work proposes a robust cross-domain UAV RFFI method 
 ## Acknowledgment
 
 The experiments in this project are conducted using a publicly available UAV RF dataset. (https://www.genesys-lab.org/hovering-uavs)
+
 We sincerely acknowledge and thank the original data providers for making the dataset publicly accessible, which has supported this research.
 
 ## Citation
 
 If you find this repository useful in your research, please cite the related paper.
 
+Z. Cai, G. Lu, Y. Wang, G. Gui and J. Sha, "Robust Cross-Domain Drone RFFI Method Using Domain-Invariant Adversarial Learning and Manifold Regularization," \emph{IEEE Trans. Cogn. Commun. Netw.}, vol. 12, pp. 443-453, 2026.
+
+
 ## License
 
-This project is distributed under a custom non-commercial license.  
+This project is distributed under a custom non-commercial license.
+
 Any form of commercial use is prohibited.
 
 本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
